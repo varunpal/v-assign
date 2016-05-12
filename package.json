@@ -1,0 +1,20 @@
+{
+  "name": "v-assign",
+  "version": "1.0.0",
+  "description": "Assign properties of multiple [target] objects to a source object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Object.assign",
+    "polyfill",
+    "object",
+    "properties",
+    "copy",
+    "shallow",
+    "extend"
+  ],
+  "author": "Varun Pal",
+  "license": "ISC"
+}
